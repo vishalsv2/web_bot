@@ -1,0 +1,30 @@
+{
+    "bot_token": "7048385654:AAHKccxV9ItLUQEn571_ohajxJM-IHWqYmU",
+    "username": "@sna_welcome_bot",
+    "mongodb_connection_string": "mongodb+srv://prasaanth1:Covai35007@prasaanth.hut8crb.mongodb.net/",
+    "sop_file_path": "/home/prasaanth2k/welcome_bot_sna/src/pdf/Standard_Operating_Procedure.pdf",
+    "thumnail":"/home/prasaanth2k/welcome_bot_sna/src/pdf/thumnail.jpg",
+    "welcome_message": "/home/prasaanth2k/welcome_bot_sna/src/message/general_welcome.txt",
+    "general_message": "/home/prasaanth2k/welcome_bot_sna/src/message/Welcome_message.txt",
+    "group_id": {
+        "-1001369735549": "LAHTP Discussions",
+        "-1001710698974": "SNA COMMUNITY",
+        "-1001564540885": "Full Stack web engineering course 1",
+        "-1001820422312": "Advanced Web Hacking",
+        "-1001595536761": "LAHTP ADVANCED",
+        "-1001620763024": "Python CLI Application Development on Linux",
+        "-1001818953047": "Bug Hunter",
+        "-1001570139077": "IOT",
+        "-1001251173339": "Advanced Socket Programming",
+        "-1001233497890": "LAHTP BATCH 1",
+        "-1001163873539": "LAHTP BATCH 5",
+        "-1001760793818": "LAHTP LEGACY",
+        "-1001425468867": "LAHTP BATCH 6",
+        "-1001310193592": "LAHTP ADVANCED BATCH 2",
+        "-1001344437539": "LAHTP Batch 3",
+        "-1001135756670": "LAHTP batch 4",
+        "-1001747591038": "Full Stack web engineering course 2",
+        "-1001342580758": "API Development Course"
+
+    }
+}
